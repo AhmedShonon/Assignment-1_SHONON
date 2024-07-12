@@ -147,3 +147,26 @@
         color: #0D1321;
         border-color: #0D1321;
 }
+.inspiration{
+    border: #1145bc;
+    height: 700;
+    width: 70;
+}
+.wwd-description2{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0D1321;
+    text-align: center;
+    margin-right: 80px;
+    margin-left: 80px;
+    /* text-align: justify; */
+    width: 800;
+    height: 100px;
+    padding: 0px 150px 0px 150px;
+
+}
+
+
+
+
+
