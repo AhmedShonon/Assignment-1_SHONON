@@ -58,7 +58,7 @@
     color: #0D1321;
 }
 .btn1{
-    width: 244px;
+    /* width: 244px;
     height: 65px;
     border-radius: 8px;
     margin-top: 32px;
@@ -67,6 +67,21 @@
     font-size: 20px;
     font-weight: 600;
     color: white;
+    cursor: pointer; */
+
+    display: inline-block; /* Makes the anchor behave like a block element */
+    width: 244px;
+    height: 65px;
+    border-radius: 8px;
+    margin-top: 32px;
+    margin-bottom: 45px;
+    background: #0D1321;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    line-height: 65px; /* Centers the text vertically */
+    text-decoration: none; /* Removes the underline */
     cursor: pointer;
     
     
